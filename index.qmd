@@ -1,0 +1,35 @@
+---
+title: "Dr. Li Ming | Computational Biologist"
+---
+
+## About Me
+::: {.profile}
+![Portrait](https://via.placeholder.com/200x200.png?text=Li+Ming){.circle}
+
+Postdoctoral Researcher in Computational Biology  
+🏛️ Tsinghua University - Stanford Joint Research Center  
+📍 Beijing | Palo Alto
+:::
+
+## Education Timeline
+```{mermaid}
+gantt
+    title Academic Journey
+    dateFormat  YYYY
+    section PhD
+    Tsinghua University    :active, phd, 2018, 2023
+    section Master
+    Peking University      :master, 2015, 2018
+    section Bachelor 
+    Zhejiang University    :bachelor, 2011, 2015
+```
+
+## Research Highlights
+- Developed novel algorithm for single-cell RNA sequencing analysis (Nature Methods, 2022)
+- Led international consortium for cancer genome annotation (10+ institutes)
+- Invented deep learning framework for protein structure prediction (Patent CN20221012345)
+
+## Honors & Awards
+🏆 CAST Outstanding Doctoral Dissertation Award (2023)  
+🏅 MIT Technology Review Innovators Under 35 (2022)  
+🎖️ NSFC Excellent Young Scholar (2021)

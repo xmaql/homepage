@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Dr. Li Ming | Computational Biologist",
+    "section": "",
+    "text": "Portrait\n\n\nPostdoctoral Researcher in Computational Biology\n🏛️ Tsinghua University - Stanford Joint Research Center\n📍 Beijing | Palo Alto"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Dr. Li Ming | Computational Biologist",
+    "section": "",
+    "text": "Portrait\n\n\nPostdoctoral Researcher in Computational Biology\n🏛️ Tsinghua University - Stanford Joint Research Center\n📍 Beijing | Palo Alto"
+  },
+  {
+    "objectID": "index.html#education-timeline",
+    "href": "index.html#education-timeline",
+    "title": "Dr. Li Ming | Computational Biologist",
+    "section": "Education Timeline",
+    "text": "Education Timeline\n\n\n\n\n\ngantt\n    title Academic Journey\n    dateFormat  YYYY\n    section PhD\n    Tsinghua University    :active, phd, 2018, 2023\n    section Master\n    Peking University      :master, 2015, 2018\n    section Bachelor \n    Zhejiang University    :bachelor, 2011, 2015"
+  },
+  {
+    "objectID": "index.html#research-highlights",
+    "href": "index.html#research-highlights",
+    "title": "Dr. Li Ming | Computational Biologist",
+    "section": "Research Highlights",
+    "text": "Research Highlights\n\nDeveloped novel algorithm for single-cell RNA sequencing analysis (Nature Methods, 2022)\nLed international consortium for cancer genome annotation (10+ institutes)\nInvented deep learning framework for protein structure prediction (Patent CN20221012345)"
+  },
+  {
+    "objectID": "index.html#honors-awards",
+    "href": "index.html#honors-awards",
+    "title": "Dr. Li Ming | Computational Biologist",
+    "section": "Honors & Awards",
+    "text": "Honors & Awards\n🏆 CAST Outstanding Doctoral Dissertation Award (2023)\n🏅 MIT Technology Review Innovators Under 35 (2022)\n🎖️ NSFC Excellent Young Scholar (2021)"
+  }
+]
